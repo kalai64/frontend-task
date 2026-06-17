@@ -164,12 +164,14 @@ export default function Home() {
               src="/one.png"
               className="w-full h-40 object-cover"
             />
+
             <div className="p-4">
               <h3 className="text-sm font-semibold">
                 Unwrapping the Archies' reinvention plan
               </h3>
             </div>
           </div>
+          
 
           {/* CARD 2 */}
           <div className="bg-black rounded overflow-hidden">
